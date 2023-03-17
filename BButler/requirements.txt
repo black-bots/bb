@@ -1,0 +1,7 @@
+openai
+speechrecognition
+pystray
+Pillow
+pypiwin32
+tkinter
+colorama
