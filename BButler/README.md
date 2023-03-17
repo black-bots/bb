@@ -9,8 +9,10 @@
 ---
 ***To Use***:
 > Fill in entry field with either 'yes' or 'no'
+
 > 'yes' = Voice Prompts
 > 'no' = Text Prompts
+
 >![alt text](etc/1.png?raw=true)
 
 ---
