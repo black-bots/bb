@@ -4,7 +4,7 @@
 
 ---
 ***Run with***:
-  'BlackButler.py' or 'python BlackButler.py'
+  Double-Click 'BlackButler.py' or Type 'python BlackButler.py' into command prompt
 
 ---
 ***To Use***:
